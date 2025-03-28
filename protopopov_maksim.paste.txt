@@ -1,0 +1,2 @@
+AI-242	pwd
+	whoami
