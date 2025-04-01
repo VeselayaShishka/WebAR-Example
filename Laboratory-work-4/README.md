@@ -41,3 +41,26 @@
 ![image](https://github.com/user-attachments/assets/e004bc6a-cbaa-407a-9caf-61a794c9dfe2)
 
 2.2.8 Заміна "Об'єкт" на "об'єкт"
+
+### 3 Автоматизована модифікація файлів з текстовими даними
+
+![image](https://github.com/user-attachments/assets/65db2ef1-a9a1-447e-bea0-51a2163630ac)
+
+2.3.1 Видалити цифри з <title>
+
+![image](https://github.com/user-attachments/assets/fd3947eb-87b5-4bdf-9de9-8fa907523a4d)
+
+2.3.2 Додати рядок після title
+
+![image](https://github.com/user-attachments/assets/ab74517b-76c4-4f46-b1ea-14c1a0305641)
+
+2.3.3 Видалити порожні рядки
+
+![image](https://github.com/user-attachments/assets/1a79252d-4bdf-4f84-8d4b-4974f6bf22da)
+
+2.3.4 Видалити дублікати слів
+
+![image](https://github.com/user-attachments/assets/66f68bf4-148a-4b91-b130-ca25bcd20b1f)
+![image](https://github.com/user-attachments/assets/776f12ff-0e49-4a49-b773-a514f5cc4448)
+
+2.3.5 Об’єднати команди SED, створені у попередніх завданнях, в окремий текстовий файл з назвою за шаблоном surname.sed, де surname – ваше прізвище латинськими літерами. Виконати утиліту SED з читанням команд зі створеного файлу.
