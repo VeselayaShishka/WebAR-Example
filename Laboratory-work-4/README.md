@@ -1,9 +1,11 @@
 ## Складна обробка текстових даних засобами оболонки Unix-подібних ОС інтерпретора команд ОС
 
 ![image](https://github.com/user-attachments/assets/256a566d-1346-4c90-bc04-c5a955b8e1b9)
+
 2.1.1 Пошук коментаря commit зі словом "Changed"
 
 ![image](https://github.com/user-attachments/assets/609970dc-bcb7-43b5-b67a-63b60e1f4776)
+
 2.1.2 Пошук поштової адреси
 
 ### 2 Складний пошук та заміна текстових даних
